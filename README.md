@@ -12,3 +12,4 @@
  <h3 align="left">Languages and Tools:</h3>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaansingla&show_icons=true&locale=en&layout=compact" alt="eshaansingla" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshaansingla&" alt="eshaansingla" /></p>
