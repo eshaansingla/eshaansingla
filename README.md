@@ -8,4 +8,7 @@
 - 💬 Ask me about Front-end development
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: There's a 50% chance that two people will share a birthday in a group of 23 people.
+  
+ <h3 align="left">Languages and Tools:</h3>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaansingla"/>
