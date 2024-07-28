@@ -15,7 +15,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=flat-square&logo=bootstrap&logoColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-%230769AD?style=flat-square&logo=jquery&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=ffffff)
-![Express](https://img.shields.io/badge/-Express-%23000000?style=flat-square&logo=express&logoColor=ffffff)
+![Express.js](https://img.shields.io/badge/-Express.js-%23000000?style=flat-square&logo=express&logoColor=ffffff)
 ![EJS](https://img.shields.io/badge/-EJS-%23000000?style=flat-square&logo=ejs&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
