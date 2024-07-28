@@ -1,4 +1,4 @@
-<h1>Hi there 👋 I am Eshaan Singla.</h1>h1>
+<h1>Hi there 👋 I am Eshaan Singla.</h1>
 
 - 🔭 I’m currently working on my portfolio website.
 - 🌱 I’m currently learning DSA and Backend.
