@@ -17,6 +17,9 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-%23000000?style=flat-square&logo=express&logoColor=ffffff)
 ![EJS](https://img.shields.io/badge/-EJS-%23000000?style=flat-square&logo=ejs&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/-SQL-%23007396?style=flat-square&logo=sql&logoColor=ffffff)
+![Protoseg](https://img.shields.io/badge/-Protoseg-%23FF5722?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNDAiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjUwIiBjeT0iNTAiIHI9IjQ5IiBmaWxsPSIjRkY1NzIyIi8+PHRleHQgeD0iNTAiIHk9IjU2IiBmb250LXNpemU9IjEwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSI+UHJvdG9zZWc8L3RleHQ+PC9zdmc+)
+
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
