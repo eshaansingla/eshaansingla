@@ -18,6 +18,7 @@
 ![EJS](https://img.shields.io/badge/-EJS-%23000000?style=flat-square&logo=ejs&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/-Postman-%23FF6C37?style=flat-square&logo=postman&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-%234479A1?style=flat-square&logo=sql&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
