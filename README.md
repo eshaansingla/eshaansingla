@@ -29,4 +29,8 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23D00000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaansingla&show_icons=true&locale=en&layout=compact" alt="eshaansingla" />
+<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=eshaansingla&theme=omni&include_all_commits=true&hide_title=true" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eshaansingla&layout=compact&theme=omni&hide_title=true" />
+<p align="center"><a href="https://github.com/eshaansingla"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=eshaansingla&show_icons=true&theme=radical" alt="eshaansingla"></a></p>
+
+
