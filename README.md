@@ -28,7 +28,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-%23F37626?style=flat-square&logo=jupyter&logoColor=ffffff)
 ![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MATLAB](https://img.shields.io/badge/-MATLAB-%230076A8?style=flat-square&logo=mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-%23FF9200?style=flat-square&logo=mathworks&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23D00000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 <br>
