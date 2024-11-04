@@ -1,7 +1,5 @@
 <h1>Hi there 👋 I am Eshaan Singla.</h1>
  <img src="https://komarev.com/ghpvc/?username=eshaansingla&label=Profile%20views&color=0e75b6&style=flat" alt="eshaansingla" />
- <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eshaansingla" alt="eshaansingla" /></a> </p>
- 
 - 🌱 I’m currently learning **DSA and Backend**.
 - 👯 I’m looking to collaborate on any web project.
 - 🤔 I’m looking for help with **DSA**.
