@@ -1,10 +1,10 @@
 <h1>Hi there 👋 I am Eshaan Singla.</h1>
  <img src="https://komarev.com/ghpvc/?username=eshaansingla&label=Profile%20views&color=0e75b6&style=flat" alt="eshaansingla" />
  
-- 🌱 I’m currently learning **DSA and Backend**.
-- 👯 I’m looking to collaborate on any web project.
+- 🌱 I’m currently learning **DSA and ML**.
+- 👯 I’m looking to collaborate on any project.
 - 🤔 I’m looking for help with **DSA**.
-- 💬 Ask me about **Front-end web development**.
+- 💬 Ask me about **Web development or ML**.
 - ⚡ Fun fact: There's a 50% chance that two people will share a birthday in a group of 23 people.
   <br><br>
   
