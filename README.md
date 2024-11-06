@@ -39,6 +39,6 @@
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaansingla&theme=dark&show_icons=true&locale=en&layout=compact" alt="eshaansingla" />
 <br>
-<p><a href="https://github.com/eshaansingla"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=eshaansingla&show_icons=true&theme=dark" alt="eshaansingla"></a></p>
+<a href="https://github.com/eshaansingla"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=eshaansingla&show_icons=true&theme=dark" alt="eshaansingla"></a>
 
 
