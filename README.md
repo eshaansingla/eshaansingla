@@ -39,6 +39,6 @@
 <br>
 <img align="left" width=44% src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaansingla&theme=dark&show_icons=true&locale=en&layout=compact" alt="eshaansingla" />
 <br><br><br><br><br><br><br><br><br><br>
-<a href="https://github.com/eshaansingla"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=eshaansingla&show_icons=true&theme=dark" alt="eshaansingla"></a>
+<a href="https://github.com/eshaansingla" align="left"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=eshaansingla&show_icons=true&theme=dark" alt="eshaansingla"></a>
 
 
