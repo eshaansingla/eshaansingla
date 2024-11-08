@@ -37,7 +37,7 @@
 <br>
 <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=eshaansingla&theme=dark&include_all_commits=true&hide_title=true" alt="eshaansingla" />
 <br>
-<img align="left" width=44% src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaansingla&show_icons=true&locale=en&layout=compact" alt="eshaansingla" />
+<img align="left" width=44% src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaansingla&show_icons=true&locale=en&layout=compact&theme=dark" alt="eshaansingla" />
 <br><br><br><br><br><br><br><br><br><br><br>
 <a href="https://github.com/eshaansingla" align="left"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=eshaansingla&show_icons=true&theme=dark" alt="eshaansingla"></a>
 
