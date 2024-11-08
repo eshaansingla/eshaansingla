@@ -35,7 +35,7 @@
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-%23D00000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 <br>
 <br>
-<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=eshaansingla&theme=dark&include_all_commits=true&hide_title=true" />
+<img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=eshaansingla&theme=dark&include_all_commits=true&hide_title=true" alt="eshaansingla" />
 <br>
 <img align="left" width=44% src="https://github-readme-stats.vercel.app/api/top-langs?username=eshaansingla&theme=dark&show_icons=true&locale=en&layout=compact" alt="eshaansingla" />
 <br><br><br><br><br><br><br><br><br><br><br>
