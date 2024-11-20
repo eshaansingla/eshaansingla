@@ -1,6 +1,5 @@
 <h1>Hi there 👋 I am Eshaan Singla.</h1>
  <img src="https://komarev.com/ghpvc/?username=eshaansingla&label=Profile%20views&color=0e75b6&style=flat" alt="eshaansingla" />
- https://api.githubtrends.io/user/svg/eshaansingla/langs
 - 🌱 I’m currently learning **DSA and ML**.
 - 👯 I’m looking to collaborate on any project.
 - 🤔 I’m looking for help with **DSA**.
